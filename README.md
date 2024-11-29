@@ -1,4 +1,4 @@
-<h1 align="center">📔 皓清的技术笔记</h1>
+<h1 align="center">📔 技术笔记</h1>
 <div align="left">
 <p><strong>Linux技术爱好者，天道酬勤，厚积薄发。<strong></p>
     </div> 
@@ -96,9 +96,9 @@
 
 ### 🚀个人网站
 
-- ***[个人博客 - https://wuxiaolie.github.io/hq.github.io/](https://wuxiaolie.github.io/hq.github.io/)（干货满满，欢迎访问）***
-- ***[Gitee仓库 - https://gitee.com/yang-haoqing/](https://gitee.com/yang-haoqing/)***
-- ***[GitHub仓库 - https://github.com/wuxiaolie/](https://github.com/wuxiaolie/)***
+- ***[个人博客 -  //https://wuxiaolie.github.io/hq.github.io/](https://wuxiaolie.github.io/hq.github.io/)（干货满满，欢迎访问）***
+- ***[Gitee仓库 - // https://gitee.com/yang-haoqing/](https://gitee.com/yang-haoqing/)***
+- ***[GitHub仓库 - // https://github.com/wuxiaolie/](https://github.com/wuxiaolie/)***
 
 
 
@@ -113,28 +113,7 @@
 - ***God helps those who help themselves.***
 
 
-
-### 🎅咨询交流
-
-- ***QQ : 970407688***
-- ***Email : haoqingboy@163.com***
-
-
-
-### 🍖  友情赞助
-
-- ***Alipay : 970407688@qq.com***
-
-
-
 ### 🥉 致谢
 
 - ***Heaven rewards diligence.***
-
-
-
-### :orange_book: 勘误与转载
-
-- ***Welcome. Please leave a message if you have any questions.***
-- ***欢迎光临，~~一键三连~~，给个star！***
 
